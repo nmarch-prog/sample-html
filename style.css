@@ -52,6 +52,13 @@ h5 {
     padding: 5px;
 }
 
+#bouton-effacer {
+    border-radius: 3px;
+    background-color: #FF6262;
+    padding: 5px;
+}
+
+
 a:link {
      text-decoration: none;
      color: black;
